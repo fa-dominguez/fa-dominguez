@@ -1,4 +1,12 @@
+element {
+  font-size: 75;
+}
 ### Hi there 👋
+
+My Name is Felipe Dominguez and I am on the way to improved my skills on Data Science! 
+Here you will find some of the project I had work on, feel free to check it out.
+
+
 
 <!--
 **fa-dominguez/fa-dominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
