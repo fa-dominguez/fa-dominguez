@@ -1,16 +1,16 @@
 element {
   font-size: 75;### Hi there 👋
 }
-
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
 My Name is Felipe Dominguez and I am on the way to improved my skills on Data Science! 
 Here you will find some of the project I had work on, feel free to check it out.
+
+|          Project             |   Repository  |    Folder     |  Last Update  |               Description                   |
+|------------------------------| ------------- | ------------- | ------------- |      ------------------------------         |
+|        Tic Tac Toe           |     Games     | Tic Tac Toe   |   10/11/21    |   Try to beat the unbeatable Tic Tac Toe    |
+| Algorithm Trading in Python  | Algo Trading  |       -       |   06/19/21    | WebScrap, AlgoTrading, Sentimental Analysis |
+
+
+
 
 
 
