@@ -2,6 +2,7 @@
 
 My Name is Felipe Dominguez and I am on the way to improve my skills on Data Science! 
 Here you will find some of the project I had work on, feel free to check it out.
+<br>
 
 |          Project             |      Repository     |      Folder      |  Last Update  |               Description                   |
 |------------------------------|    -------------    |   -------------  | ------------- |      ------------------------------         |
